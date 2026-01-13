@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I’m Doliki Chandana 👋
+🎓 Engineering Student
+💻 Aspiring Full Stack Developer
+🚀 Building my career step by step
 
-<!--
-**chandanadoliki25/chandanadoliki25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on
+*Internship at Sashverse Technologies
+*Learning frontend basics (HTML, CSS)
+*Preparing for Full Stack Development
 
-Here are some ideas to get you started:
+🌱 I’m currently learning
+*HTML
+*CSS
+*Basics of Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+*HTML
+*CSS
+
+🧠 Projects
+Mini Project (3rd Year)
+Indian Currency Note Classification
+*Type: Major Academic Project
+*Technology: Machine Learning, Python
+*Purpose: Identify Indian currency notes using images
+*Learned: Image processing, model training, prediction
+
+🎯 Career Goal
+*Become a Full Stack Developer
+*Build complete applications
+*Get a job in IT industry
+
+📫 Contact
+*GitHub: chandanadoliki25
+
+*portfolio/LinkedIn:https://www.linkedin.com/in/chandana-doliki-9570ba29a
